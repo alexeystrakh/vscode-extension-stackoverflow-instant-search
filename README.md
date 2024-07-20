@@ -12,7 +12,7 @@ You can also narrow your search with tags by specifying them in square brackets 
 
 - Stackoverflow instant search without leaving VS-Code
 - Execute search with a search term preview (ctrl/cmd+h) or instantly (ctrl/cmd+shift+h)
-- Browse search result by title and stats stats (Stackoverflow votes, answers, etc)
+- Browse search result by title and stats (Stackoverflow votes, answers, etc)
 - Open selected post in a default browser
 - Execute Google search as an option if no relevant results found
 - Execute Stackoverflow search as an option if no relevant results found
